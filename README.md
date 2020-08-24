@@ -18,17 +18,21 @@ We want to automate that filtering process so, there would be less manual intera
 
 #### Software Architecture
 
-![Our app software Architecture](Software Architecture.png)	
+![Our app software Architecture](Software_Architecture.png)	
 
 #### NLP and Machine learning Model
 
-<p style="text-align: center; font-weight: bold">Basic Steps</p>
+
+
+##### Basic Steps
 
 ![Basic steps for our model](basic_steps.png)
 
 
 
-<p style="text-align: center; font-weight: bold">The full model architecture</p>
+
+
+##### The full model architecture
 
 
 
